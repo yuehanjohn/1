@@ -1,0 +1,4 @@
+- the main differences between anonymisation and pseudonymisation?
+# anonymisation datas can't track to individual anymore, pseudonymisation can be track back to individual
+- when is it better to use pseudonymisation rather than anonymisation? give an example. 
+# when you have a data that have to be updated in the future after the initial set. 
